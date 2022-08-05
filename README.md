@@ -1,4 +1,4 @@
-# Machine_Learning_Final_Project
+# Machine-Learning-Final-Project
 
 Final Project for Machine Learning Course.
 
